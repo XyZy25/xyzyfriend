@@ -419,6 +419,6 @@ footer .column p{
     }
 
     footer{
-        grid-template-columns: 1fr 150px;
+        grid-template-columns: 1fr 100px;
     }
 }
